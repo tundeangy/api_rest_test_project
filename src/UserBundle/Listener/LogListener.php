@@ -1,12 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: dovoedo
- * Date: 27/11/2019
- * Time: 09:44
- */
-
-// src/EventListener/RequestListener.php
 namespace UserBundle\Listener;
 
 use Doctrine\ORM\Event\LifecycleEventArgs;
